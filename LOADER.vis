@@ -7,15 +7,17 @@ Pet Simulator X
 Da Hood
 ]]--
 
-if game.PlaceId == 2866967438 then -- Mad City
+if game.PlaceId == 1224212277 then -- Mad City
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/Scripts/main/mad-city.vis"))();
-elseif game.PlaceId == 885450884 then -- untitled hood
+elseif game.PlaceId == 7800644383 then -- untitled hood
     loadstring(game:HttpGet('https://raw.githubusercontent.com/RubyBoo4life/Scripts/main/untitled-hood.vis'))()
-elseif game.PlaceId == 6677985923 then -- break in
+elseif game.PlaceId == 3851622790 then -- break in
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/break-in-v1/main/.gitignore"))();
-elseif game.PlaceId == 2248408710 then -- psx
+elseif game.PlaceId == 4620170611 then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/break-in-v1/main/.gitignore"))();
+elseif game.PlaceId == 6284583030 then -- psx
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/plasmahubAGAIN/main/README.md", true))()
-elseif game.PlaceId == 648362523 then -- da hood
+elseif game.PlaceId == 2788229376 then -- da hood
     loadstring(game:HttpGet('https://raw.githubusercontent.com/RubyBoo4life/Scripts/main/dahood_aimlock.vis'))()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/RubyBoo4life/Scripts/main/dhcdropper.vis"))();
 else 
